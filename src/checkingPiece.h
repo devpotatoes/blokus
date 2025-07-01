@@ -1,0 +1,1 @@
+int canPlacePiece(int row, int col, int pieceIndex);
